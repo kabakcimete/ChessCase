@@ -8,7 +8,9 @@ ornek output:
 
 Enter file name:
 board1.txt
+
 Total score for blacks:136.0
+
 Total score for Whites:134.5
 
 Process finished with exit code 0
@@ -18,7 +20,9 @@ olmasi gereken:
 
 Enter file name:
 board1.txt
+
 Total score for blacks:135.0
+
 Total score for Whites:134.5
 
 Process finished with exit code 0
