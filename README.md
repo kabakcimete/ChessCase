@@ -6,6 +6,7 @@ Oncelikle koduma yeteri kadar comment ekleyemedigim icin uzgunum ama mumkun oldu
 
 ornek output:
 
+
 Enter file name:
 board1.txt
 
@@ -16,7 +17,9 @@ Total score for Whites:134.5
 Process finished with exit code 0
 
 
+
 olmasi gereken:
+
 
 Enter file name:
 board1.txt
