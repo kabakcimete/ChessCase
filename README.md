@@ -2,7 +2,7 @@
 
 Merhaba,
 
-Oncelikle koduma yeteri kadar comment ekleyemedigim icin uzgunum ama mumkun oldugunca acik bir sekilde yazmaya calistim. Kodu calistirmak icin sadece main i runlamaniz yeterli. Sizden input isteyecek. Hangi board u okumasini istiyosaniz onu input olarak girin (ornek olarak board1.txt). Program beyaz taslarin puanini dogru bir sekilde hesaplasa da siyah taslarin puanini hesaplarken hata yapiyor.
+Oncelikle koduma yeteri kadar comment ekleyemedigim icin uzgunum ama mumkun oldugunca acik bir sekilde yazmaya calistim. Kodu calistirmak icin sadece main i runlamaniz yeterli. Sizden input isteyecek. Hangi board u okumasini istiyosaniz onu input olarak girin (ornek olarak board1.txt). 
 
 ornek output:
 
